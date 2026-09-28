@@ -1,6 +1,6 @@
 # OpsPilot AI
 
-**Operations intelligence for small businesses — turn daily sales and cost data into forecasts, anomaly alerts and practical decisions.**
+**Operations intelligence for small businesses turn daily sales and cost data into forecasts, anomaly alerts and practical decisions.**
 
 OpsPilot AI is a full-stack analytics project built to demonstrate production-minded software engineering, data analysis and applied machine learning in a business setting.
 
